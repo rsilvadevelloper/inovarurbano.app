@@ -236,5 +236,3 @@ export default HomeScreen;
 O aplicativo **Inovar Urbano** oferece uma experiência moderna de compra de roupas urbanas com uma integração simples e eficaz com o Firebase para autenticação e gerenciamento de dados. Usando o poder do **Expo** para desenvolvimento rápido e fácil, ele proporciona uma interface fluida e rica em funcionalidades.
 
 ---
-
-Se precisar de mais alguma coisa, me avise!
