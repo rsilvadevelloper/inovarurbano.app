@@ -1,7 +1,3 @@
-Claro! Abaixo está um exemplo de documentação para um aplicativo chamado **Inovar Urbano**, que foi desenvolvido usando **Expo**, **Firebase** (acredito que você quis dizer **Firebase** ao invés de "Firebuster") e **extensões de uso com JavaScript**.
-
----
-
 # **Documentação do Aplicativo: Inovar Urbano**
 
 ## 1. **Visão Geral**
