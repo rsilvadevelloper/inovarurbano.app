@@ -3,8 +3,10 @@ import { View, Text, FlatList, Button, StyleSheet } from 'react-native';
 
 const produtos = [
   { id: '1', nome: 'Camiseta', preco: 49.99 },
-  { id: '2', nome: 'Calça Jeans', preco: 99.99 },
-  { id: '3', nome: 'Tênis', preco: 199.99 },
+  { id: '2', nome: 'Croche', preco: 49.99 },
+  { id: '3', nome: 'Camiseta UV', preco: 59.99 },
+  { id: '4', nome: 'Calça Jeans', preco: 99.99 },
+  { id: '5', nome: 'Tênis', preco: 199.99 },
 ];
 
 export default function HomeScreen({ navigation }) {
